@@ -1,50 +1,19 @@
-<!--
+# Suveva Labs
 
-**Here are some ideas to get you started:**
+Hey — thanks for stopping by.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+We're a small team building software and digital products. Right now that's our main focus:
+taking ideas from "wouldn't it be cool if..." to something people can actually use.
 
-<div align="center">
+We're also starting to dabble in AI/ML, and we're open to consulting work if you've got
+something interesting that needs building. If that sounds like you, get in touch.
 
-# 👋 Hey, we're Suveva Labs
+## Projects
 
-**We build software products people actually enjoy using.**
+Nothing public yet, but we're working on it. Check back soon.
 
-</div>
+## Say hi
 
----
-
-### 🚀 What we do
-
-Right now, we're focused on **software & product development** — designing, building, and
-shipping digital products end to end.
-
-Down the road, we're expanding into:
-- 🤖 **AI/ML research** — exploring practical applications, not just hype
-- 🤝 **Consulting** — helping other teams build better, faster
-
-### 🛠️ How we like to work
-
-We're a small, hands-on team that cares about craft, clarity, and shipping things that work.
-Expect clean code, honest communication, and a healthy dose of curiosity.
-
-### 📌 Projects
-
-_Coming soon — check back here as we open-source pieces of what we're building._
-
-### 📬 Get in touch
-
-- 🌐 Website: <https://suvevalabs.com>
-- ✉️ Email: <hello@suvevalabs.com>
-- 🐦 Twitter/X: <@suvevalabs>
-
-<div align="center">
-
-*Thanks for stopping by — more to come soon.*
-
-</div>
+- Website: <https://suvevalabs.com>
+- Email: <hello@suvevalabs.com>
+- Twitter/X: <@suvevalabs>
