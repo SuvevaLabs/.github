@@ -14,6 +14,6 @@ Nothing public yet, but we're working on it. Check back soon.
 
 ## Say hi
 
-- Website: <https://suvevalabs.com>
-- Email: <hello@suvevalabs.com>
+- Website: <https://www.suvevalabs.com>
+- Email: <team@suvevalabs.com>
 - Twitter/X: <@suvevalabs>
